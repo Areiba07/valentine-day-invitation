@@ -2,7 +2,7 @@ let leftPos = 0;
 let bottomPos = 0;
 
 document.getElementById('yessir').addEventListener('click', () => {
-    alert('Happy Valentine\'s Day to the love of my life. You make every day special.');
+    alert('Happy Valentine's Day to the love of my life. You make every day special.');
 });
 
 document.getElementById('nooo').addEventListener('mouseover', moveButton);
