@@ -65,10 +65,9 @@ body {
 }
 
 #nooo {
-    position: absolute;
-    left: 0;
-    transition: 0.2s all ease-in-out;
+    transition: all 0.2s ease-in-out;
 }
+
 
 #yessir:hover {
     background-color: hotpink;
